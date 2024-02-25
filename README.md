@@ -1,4 +1,4 @@
-### This list contains topics which meets most of the copanies requirements
+### This list contain topics which meets most of the copanies requirements
 
 ## Backend and DevOps Learning
 

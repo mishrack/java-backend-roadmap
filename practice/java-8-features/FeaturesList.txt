@@ -1,0 +1,21 @@
+## Features List :
+
+1. Core Java Enhancements:**
+    
+    Lambda Expressions: Concise syntax for anonymous functions, improving code readability and reducing boilerplate code.
+    Functional Interfaces: Single-method interfaces allowing easy usage with lambda expressions.
+    Method References: Referencing existing methods using the :: operator, improving code conciseness.
+    Default Methods: Providing default implementations for methods in interfaces, allowing backward compatibility.
+    Static Methods in Interfaces: Defining utility methods directly in interfaces for improved organisation and access.
+    
+2. Java Collections Framework:
+    
+    Stream API: Powerful tool for processing collections in a declarative manner, supporting filtering, mapping, and reduction operations.
+    forEach Method: Convenient method for iterating elements in collections and performing actions on them.
+    
+3. **Other Key Features:**
+    
+    Optional Class: Represents the presence or absence of a value, helping to avoid NullPointerExceptions.
+    Collectors Class: Provides utility methods for collecting results from stream operations.
+    Date & Time API: Comprehensive and modern API for handling date and time related functionalities.
+    Base64 Encoding/Decoding: Built-in support for encoding and decoding data in Base64 format.
